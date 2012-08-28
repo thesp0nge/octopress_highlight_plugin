@@ -1,11 +1,11 @@
 # This is the Octopress Gravatar plugin
 #
-# Place this file in your plugin directory and you have an _highlight_ keyword to create a span with highlight class containing your text
+# Place this file in your plugin directory and you have an _highlight_ keyword to create a span with fluo class containing your text
 #
-# Usage: {% gravatar email@domain.com %}
+# Usage: {% highlight this is a great piece of wisdom %}, this is not.
 #
 # Paolo Perego, <thesp0nge@gmail.com>, v20120828.a
-# repo@github: https://github.com/thesp0nge/octopress_gravatar_plugin
+# repo@github: https://github.com/thesp0nge/octopress_highlight_plugin
 # twitter: @thesp0nge
 # blog: http://armoredcode.com
 #
